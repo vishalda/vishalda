@@ -14,6 +14,8 @@ I'm a 2nd year student pursuing my bachelor's degree in Information science from
 - 🌱 I’m currently learning web development with django stack(Django, Reactjs, Django rest, postgresql) and working on my competitive programming skills.
 - 👯 I’m open for any collaboration and would love to work with other's.
 
+Run this in your terminal : `npx vishalda`
+
 ---
 
 <div align="center">
