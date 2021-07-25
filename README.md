@@ -11,7 +11,7 @@ I'm a 2nd year student pursuing my bachelor's degree in Information science from
 </div>
 
 - 🔭 I’m currently a campus leader at <a href="https://www.linkedin.com/company/commclassroom/" >Community Classroom</a>
-- 🌱 I’m currently learning web development with django stack(Django, Reactjs, Django rest, postgresql) and working on my communication skills.
+- 🌱 I’m currently learning web development with django stack(Django, Reactjs, Django rest, postgresql) and working on my communication skill.
 - 👯 I’m open for any collaboration and would love to work with other's.
 
 Run this in your terminal : `npx vishalda`
