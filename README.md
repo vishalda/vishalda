@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=30&center=true&lines=Hey+there!+👋)](https://git.io/typing-svg)
 
-[![MasterHead](./media/banner.png)](https://github.com/VDA-001/)
+[![MasterHead](./media/GithubBanner.png)](https://github.com/vishalda/)
 
 </br>
 
@@ -10,9 +10,11 @@ I'm a 2nd year student pursuing my bachelor's degree in Information science from
 
 </div>
 
-- 🔭 I’m currently a campus leader at <a href="https://www.linkedin.com/company/commclassroom/" >Community Classroom</a>
-- 🌱 I’m currently learning web development with django stack(Django, Reactjs, Django rest, postgresql) and working on my communication skill.
-- 👯 I’m open for any collaboration and would love to work with other's.
+- 🔭 I’m currently volunteering as campus leader at <a href="https://www.linkedin.com/company/commclassroom/" >Community Classroom</a>
+- 🌱 I’m currently in the path of mastering full stack development and also DSA(Data structures and Algorithms).
+- ⚡ Starting off with Open source and some community works.
+- 👯 I’m open for any collaboration for hackathon's and would love to work with other's.
+- Connect with me : https://linktr.ee/Vishal_D_A
 
 Run this in your terminal : `npx vishalda`
 </br>
@@ -61,23 +63,6 @@ Website : https://vishal-da.netlify.app/
 
 ---
 
-## Social media
-
-</br>
-
-<a href="https://www.instagram.com/_v_ishhh_/">
-<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vishal-da-9216091a9/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</br>
-</br>
-
----
-
 ## Github Stats
 
 </br>
@@ -86,8 +71,8 @@ Website : https://vishal-da.netlify.app/
   
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalda&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalda&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalda&show_icons=true&theme=synthwave" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalda&theme=synthwave" />
 
 </p>
 
