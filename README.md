@@ -14,15 +14,15 @@ I'm a 2nd year student pursuing my bachelor's degree in Information science from
 
 </div>
 
-- 🔭 I’m currently volunteering as campus leader at <a href="https://www.linkedin.com/company/commclassroom/" >Community Classroom</a>
-- 🌱 I’m currently in the path of mastering full stack development and also DSA(Data structures and Algorithms).
-- ⚡ Starting off with Open source and some community works.
-- 👯 I’m open for any collaboration for hackathon's and would love to work with other's.
-- Connect with me : https://linktr.ee/Vishal_D_A
+- 🔭 I’m currently volunteering as campus leader at <a href="https://www.linkedin.com/company/commclassroom/">Community Classroom</a>
+- 🌱 I’m currently in the path of mastering full stack development and also DSA (Data structures and Algorithms).
+- ⚡ Starting off with Open source and how community works.
+- 👯 I’m open for any collaboration for hackathon's and would love to work with others.
+- Connect with me: https://linktr.ee/Vishal_D_A
 
-Run this in your terminal : `npx vishalda`
+Run this in your terminal: `npx vishalda`
 </br>
-Website : https://vishal-da.netlify.app/
+Website: https://vishal-da.netlify.app/
 
 ---
 
@@ -71,7 +71,7 @@ Website : https://vishal-da.netlify.app/
 
 ---
 
-## Github Stats
+## GitHub Stats
 
 </br>
 
@@ -83,4 +83,3 @@ Website : https://vishal-da.netlify.app/
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalda&theme=synthwave" />
 
 </p>
-
