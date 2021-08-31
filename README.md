@@ -2,11 +2,15 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=30&center=true&lines=Hey+there!+👋)](https://git.io/typing-svg)
 
-[![MasterHead](./media/banner.png)](https://github.com/vishalda/)
-
 </br>
 
 I'm a 2nd year student pursuing my bachelor's degree in Information science from DSATM 👨‍💻. I am a full stack developer and a passionate learner who's always willing to learn and work across new technologies and domains 📈.
+
+</div>
+
+<div align="right">
+
+<img align="right" alt="GIF" src="./media/4zeM.gif" width="250px" />
 
 </div>
 
@@ -19,6 +23,10 @@ I'm a 2nd year student pursuing my bachelor's degree in Information science from
 Run this in your terminal : `npx vishalda`
 </br>
 Website : https://vishal-da.netlify.app/
+
+---
+
+[![Vishal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishalda&theme=xcode)](https://git.io/vishalda)
 
 ---
 
