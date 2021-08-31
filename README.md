@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=30&center=true&lines=Hey+there!+👋)](https://git.io/typing-svg)
 
-[![MasterHead](./media/GithubBanner.png)](https://github.com/vishalda/)
+[![MasterHead](./media/banner.png)](https://github.com/vishalda/)
 
 </br>
 
