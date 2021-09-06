@@ -10,13 +10,11 @@ I'm a 2nd year student pursuing my bachelor's degree in Information science from
 
 <div align="right">
 
-<img align="right" alt="GIF" src="./media/4zeM.gif" width="250px" />
-
 </div>
 
 - 🔭 I’m currently volunteering as campus leader at <a href="https://www.linkedin.com/company/commclassroom/">Community Classroom</a>
 - 🌱 I’m currently in the path of mastering full stack development and also DSA (Data structures and Algorithms).
-- ⚡ Starting off with Open source and how community works.
+- ⚡ Starting off with Open source to contribute back to the community.
 - 👯 I’m open for any collaboration for hackathon's and would love to work with others.
 - Connect with me: https://linktr.ee/Vishal_D_A
 
