@@ -12,7 +12,6 @@ I'm a 2nd year student pursuing my bachelor's degree in Information science from
 
 </div>
 
-- 🔭 I’m currently volunteering as campus leader at <a href="https://www.linkedin.com/company/commclassroom/">Community Classroom</a>
 - 🌱 I’m currently in the path of mastering full stack development and also DSA (Data structures and Algorithms).
 - ⚡ Starting off with Open source to contribute back to the community.
 - 👯 I’m open for any collaboration for hackathon's and would love to work with others.
