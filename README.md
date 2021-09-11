@@ -4,7 +4,7 @@
 
 </br>
 
-I'm a 2nd year student pursuing my bachelor's degree in Information science from DSATM 👨‍💻. I am a full stack developer and a passionate learner who's always willing to learn and work across new technologies and domains 📈.
+I'm a 2nd year Engineering student pursuing my bachelor's degree in Information science from DSATM 👨‍💻. I am an aspiring full stack developer and a passionate learner who's always willing to learn and work across new technologies and domains 📈.
 
 </div>
 
