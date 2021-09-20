@@ -4,22 +4,14 @@
 
 </br>
 
-I'm a 2nd year Engineering student pursuing my bachelor's degree in Information science from DSATM 👨‍💻. I am an aspiring full stack developer and a passionate learner who's always willing to learn and work across new technologies and domains 📈.
+I'm a 3rd year Engineering student pursuing my bachelor's degree in Information science from DSATM 👨‍💻. I am an aspiring full stack developer and a passionate learner who's always willing to learn and work across new technologies and domains 📈. Love to attend hackathon's and currently focusing on open source and DSA(Problem solving) ⚡.
 
 </div>
 
-<div align="right">
-
-</div>
-
-- 🌱 I’m currently in the path of mastering full stack development and also DSA (Data structures and Algorithms).
-- ⚡ Starting off with Open source to contribute back to the community.
-- 👯 I’m open for any collaboration for hackathon's and would love to work with others.
-- Connect with me: https://linktr.ee/Vishal_D_A
-
-Run this in your terminal: `npx vishalda`
-</br>
-Website: https://vishal-da.netlify.app/
+- 🌱 Know more about me: https://vishal-da.netlify.app/
+- 📈 Connect with me: https://linktr.ee/Vishal_D_A
+- 👨‍💻 Hackathon count: 4
+- 📫 Run this in your terminal: `npx vishalda`
 
 ---
 
