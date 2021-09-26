@@ -55,6 +55,8 @@ I'm a 3rd year Engineering student pursuing my bachelor's degree in Information 
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%2300599C.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+
 </br>
 </br>
 
