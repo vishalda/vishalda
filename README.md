@@ -4,7 +4,7 @@
 
 </br>
 
-I'm a 3rd year Engineering student pursuing my bachelor's degree in Information science from DSATM 👨‍💻. I am an aspiring full stack developer and a passionate learner who's always willing to learn and work across new technologies and domains 📈. Love to attend hackathon's and currently focusing on open source and DSA(Problem solving) ⚡.
+I'm a 3rd year Engineering student pursuing my bachelor's degree in Information science from DSATM 👨‍💻. I am an aspiring full stack developer and a passionate learner who's always willing to learn and work across new technologies and domains 📈. Love to attend hackathon's and currently focusing on learning new technologies and DSA(Problem solving) ⚡.
 
 </div>
 
